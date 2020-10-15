@@ -1,4 +1,4 @@
-### Hi there 👋
+### How do you do, fellow kids? 👋
 
 <!--
 **gijswijs/gijswijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently doing my PhD in computer science. My research topic is privacy in second layer payment networks (mainly Lightning Network). So most of my (private) repos are either papers that I plan to publish some day, or tools needed to do my research.
+
+I try to contribute to open source projects that I use in my own projects. Stuff like JSTransformers, Nuxt, MermaidJS, and obviously also Lightning related stuff.(I secretly prefer JS even for my research; Yes, I know I should probably use Python more, ...or R, ... or C++)
+
+I have two personal OS projects that I spend time on whenever I can. I have moved them under to an [organization](https://github.com/neumannjs), because hopefully at some time in the future loads of people will be contributing. The first project is [Boilerplate Paper](https://github.com/neumannjs/boilerplate-paper) which is a tool for creating scientific papers, posters and slideshows in Markdown and convert them to different formats like LaTeX, Pdf, Word, PowerPoint or Html. The second project is still a it under wraps, so stay tuned...
